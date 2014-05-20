@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<path>
+    <CM name="ASF">
+        <log_folders>
+        	<f>/home/rawdata/ASF/TPT</f>
+	        <f>/home/rawdata/ASF/TMT5</f>
+	        <f>/home/rawdata/ASF/TMT4</f>
+	        <f>/home/rawdata/ASF/TMT3</f>
+	        <f>/home/rawdata/ASF/TMT2</f>
+	        <f>/home/rawdata/ASF/TMT1</f>
+        </log_folders>
+        <invalid_logs>home/rawdata/ASF_Invalid</invalid_logs>
+    </CM> 
+    <CM name="SWJ">
+        <log_folders>
+        	<f>D:\TestLogForDev</f>
+        </log_folders>
+        <invalid_logs>D:\Invalid_Logs</invalid_logs>
+    </CM> 
+</path>
